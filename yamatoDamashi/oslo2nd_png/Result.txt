@@ -1,0 +1,30 @@
+-----------------------------From here--------------------------------------------------
+In Fig.00 the electron density, the ion density and potential distribution are shown.
+(magnetic field direction at 0 degree to the z-axis, in the xz-plane)
+The main simulation parameter is shown in Table1.
+In this case, plasma flow vector is x-axis. And conductivity object is set in a center as a rocket.
+The most obvious feature of these Figures is a wake, behind the rocket.
+This region of low potential behind the rocket indicates that electrons are more often penetrating behind the rocket
+ in this case.
+It is also shown Fig.01.(the particle number's 1 dimentional distribution at z=64)
+This will be discussed in more detail when we look at the other magnetic field angle's case.
+And another notable feature is Mach cone.
+We calucurate Mach cone angle É (1).
+É  = sin^-1 (1/M)  (1)
+In this case, the Mach angle is nearly 30 degree. And we can see the angle is correspond to the figures.
+
+
+Table1
+Grid width   1 (cm)
+Mach number  2
+Electron temperature  3000(K)
+Ion temperature       2000(K)
+Plasma flow speed     40000(m/s)
+Magnetic field         50  (microT)
+
+In Fig.02 current density is shown. We can see almost ion currents go straight if they hit the rocket.(Fig.02(a))
+And the electron currents twin arround the rocket. (Fig.02(b)) 
+Finally the sum of electrons and ions current is also twinning arround the rocket.(Fig.02(c))
+
+
+
